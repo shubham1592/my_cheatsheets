@@ -1,7 +1,5 @@
 # My Cheat Sheets #
 
-## These cheat sheets were contributed by our Tech-team and designed by our lead designer Varun ##
-
 To download them locally, click the "Clone or Download" button on right side of this repository and then download as Zip
 
 These cheat sheets are meant to be used for increased productivity while developing. In no way are they exhaustive of the topics they are covering.
