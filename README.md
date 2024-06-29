@@ -1,4 +1,4 @@
-# Venturesity VIT #
+# My Cheat Sheets #
 
 ## These cheat sheets were contributed by our Tech-team and designed by our lead designer Varun ##
 
